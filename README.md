@@ -299,9 +299,7 @@ I experimented with K-fold cross-validation to train multiple models and ensembl
 1. **notebook.ipynb** - Full solution with all cells (data loading through submission)
 2. **train_pair_embeddings.npy** - Pre-computed training embeddings (5000 × 768)
 3. **test_pair_embeddings.npy** - Pre-computed test embeddings (3638 × 768)
-4. **train_full.pkl** - Processed training dataframe with embeddings
-5. **test_full.pkl** - Processed test dataframe with embeddings
-6. **submission_mlp4.csv** - Final predictions for submission
+6. **submission_mlp.csv** - Final predictions for submission
 
 ---
 
