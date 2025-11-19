@@ -1,6 +1,6 @@
 # DA5401-2025 Data Challenge: Metric Learning Solution
 
-**Student Name:** Shreehari Anbazhagan  
+**Student Name:** Shreehari Anbazhagan\
 **Roll Number:** DA25C020
 
 ---
