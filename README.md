@@ -359,12 +359,3 @@ Final prediction: 9.0
 | Validation RMSE (log-space) | 0.2604 |
 | Validation RMSE (original) | 2.1862 |
 | Inference time per sample | ~1ms |
-
----
-
-## References & Resources Used
-
-- **Kaggle Competition Page**: https://www.kaggle.com/competitions/da5401-2025-data-challenge
-- **Embedding Model**: google/embedding-gemma-300m from Hugging Face
-- **Libraries**: pandas, numpy, scikit-learn, sentence-transformers, xgboost, catboost, lightgbm
-- **Key scikit-learn modules**: Pipeline, StandardScaler, MLPRegressor, train_test_split
