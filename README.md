@@ -18,6 +18,7 @@ The competition required:
 Links to competition and submission:
 - [Kaggle Competition](https://www.kaggle.com/competitions/da5401-2025-data-challenge/overview)
 - [My Kaggle Notebook](https://www.kaggle.com/code/shreeharianbazhagan/da5401-2025-data-challenge-da25c020)
+- [Github Repo](https://github.com/ShreehariA/IITM_DA_Lab_Data_Challenge#)
 
 ---
 
